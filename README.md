@@ -1,4 +1,11 @@
-# [Reroll.ing](https://reroll.ing)
+# [FGO Gacha Simulator](https://fgo.aaanh.app)
+
+> [!IMPORTANT]
+> This project has been archived as of 2025-05-03. I no longer play nor follow Fate/Grand Order because the game has not aged well into the modern gacha era.
+>
+> No changes to the codebase nor database updates will be made.
+> 
+> It has been a good run nonetheless.
 
 The wise words of ThePrimeagen:
 

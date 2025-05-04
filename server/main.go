@@ -216,7 +216,7 @@ func main() {
 
 	// CORS
 	config := cors.DefaultConfig()
-	config.AllowOrigins = []string{"http://localhost:3000/servants", "http://localhost:3000", "https://reroll.ing", "https://reroll.ing/servants"} // You may want to restrict this to specific origins in production
+	config.AllowOrigins = []string{"http://localhost:3000/servants", "http://localhost:3000", "https://fgo.aaanh.app", "https://fgo.aaanh.app/servants"} // You may want to restrict this to specific origins in production
 	config.AllowMethods = []string{"GET"}
 	config.AllowHeaders = []string{"Origin", "Content-Type", "Content-Length", "Accept-Encoding", "X-CSRF-Token", "Authorization"}
 
